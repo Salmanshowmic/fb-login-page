@@ -1,0 +1,152 @@
+body{
+	margin: 0 auto;
+}
+
+
+.wrapper{
+	
+}
+
+
+.header{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+	background: rgb(59,89,152);
+}
+
+.gradient{
+	/*border: 2px solid green;*/
+	overflow: hidden;
+	/*background:  linear-gradient(rgb(255,255,255), rgb(220,228,232));*/
+	background: #dfe3ee;
+}
+
+.contact{
+	/*border: 2px solid black;*/
+	width: 900px;
+	margin-left: 500px;
+}
+
+.name{
+	/*border: 2px solid blue;*/
+	height: 90px;
+	width: 60%;
+	float: left;
+	font-weight: bold;	
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	color: white;
+	background: rgb(59,89,152);
+	
+	
+}
+.name p{
+	vertical-align: bottom;
+	margin-left: 400px;
+
+}
+
+.login{
+	/*border: 2px solid blue;*/
+	height: 90px;
+	width: 39%;
+	float: right;
+	background: rgb(59,89,152);
+	color: white;
+	
+}
+.login p{
+	display: inline-block;
+}
+.btn{
+	background: rgba(65,116,152,3.2);
+	color: white;
+	font-family: Helvetica, Arial, sans-serif;
+	border: 1px solid blue;
+}
+
+
+
+
+.slider_image{
+	/*border: 2px solid black;*/
+	height: 600px;
+	width: 30%;
+	float: left;
+	font-size: 20px;
+	color: rgb(59,89,152);
+	font-weight: bold;
+	font-family: Helvetica, Arial, sans-serif;
+	padding-top: 20px;
+	border: none;
+	margin-left: 300px;
+
+
+
+}
+
+
+
+	
+
+
+
+.slider_form{
+	/*border: 2px solid black;*/
+	height: 300px;
+	width: 40%;
+	float: right;
+	margin: 0 auto;
+	margin-left: 200px;
+
+}
+.slider_form input{
+	margin-bottom: 7px;
+	width: 300px;
+	height: 30px;
+}
+#input_1{
+	width: 145px;
+	margin-bottom: 5px;
+
+}
+#input_2{
+	margin-left: 5px;
+	width: 15px;
+
+}
+
+.btn_1{
+	width: 150px;
+	height: 30px;
+	font-size: 15px;
+	color: white;
+	background: rgb(16,193,81);
+	border: none;
+}
+.btn_1:hover{
+	background: #21CD60;
+	color: white;
+	border-bottom: 2px;
+}
+
+#p1{
+	font-size: 40px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	margin-bottom: 0px;
+
+}
+
+#p2{
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 1px;
+	
+}
+.p_contact{
+	font-size: 13px;
+}
+.p_contact1{
+	font-size: 10px;
+}
